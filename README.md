@@ -5,7 +5,7 @@ This project demonstrates basic CRUD operations for managing courses (or similar
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 This API allows you to:
 - Create a new course
 - Read (fetch) all courses or a specific course
@@ -20,7 +20,7 @@ The project is structured into:
 
 ---
 
-## ⚙️ Setup Steps
+## Setup Steps
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/lab-crud-api.git
