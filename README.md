@@ -7,10 +7,10 @@ This project demonstrates basic CRUD operations for managing courses (or similar
 
 ## Project Overview
 This API allows you to:
-- Create a new course
-- Read (fetch) all courses or a specific course
-- Update course details
-- Delete a course
+- Create new **students** and **courses** table under the lab_crud database.
+- Read (fetch) all courses or a specific students and courses using Postman.
+- Update the details on the students and courses table.
+- Delete a record on students and courses.
 
 The project is structured into:
 - `config/` → database connection setup  
